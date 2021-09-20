@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build Rpi4 Lean
+name: Build Rpi4-Lean
 
 on:
   repository_dispatch:
